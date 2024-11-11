@@ -11,6 +11,7 @@
     "tsx": "^4.19.1"
   },
   "scripts": {
+    "01_task": "bun run 01_task/app.ts",
     "advanced_web_search": "bun advanced_web_search/app.ts",
     "chain": "bun run chain/app.ts",
     "completion": "bun run completion/app.ts",
