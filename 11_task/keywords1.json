@@ -1,0 +1,108 @@
+{
+  "2024-11-12_report-05-sektor_C1.txt": [
+    "godzina",
+    "aktywność",
+    "technologia",
+    "sensor",
+    "dźwięk",
+    "detektor",
+    "ruch",
+    "gotowość",
+    "sygnał",
+    "patrol",
+    "monitorowanie",
+    "brak wykrycia aktywności"
+  ],
+  "2024-11-12_report-03-sektor_A3.txt": [
+    "godzina",
+    "patrole nocne",
+    "monitorowanie",
+    "czujniki",
+    "wykrywanie",
+    "życie organiczne",
+    "stan patrolu"
+  ],
+  "2024-11-12_report-06-sektor_C2.txt": [
+    "sektor północno-zachodni",
+    "stan",
+    "obszar",
+    "skanery",
+    "temperatura",
+    "ruch",
+    "jednostka",
+    "patrol"
+  ],
+  "2024-11-12_report-00-sektor_C4.txt": [
+    "Aleksander Ragowski",
+    "jednostka organiczna",
+    "północne skrzydło",
+    "fabryka",
+    "skan biometryczny",
+    "baza danych",
+    "dział kontroli",
+    "patrol"
+  ],
+  "2024-11-12_report-04-sektor_B2.txt": [
+    "godzina",
+    "patrol",
+    "teren",
+    "anomalia",
+    "odchylenie",
+    "norma",
+    "sektor",
+    "kanał komunikacyjny",
+    "punkt"
+  ],
+  "2024-11-12_report-01-sektor_A1.txt": [
+    "godzina",
+    "alarm",
+    "wykrycie",
+    "ruch",
+    "organiczny",
+    "analiza",
+    "wizualna",
+    "sensoryczna",
+    "obecność",
+    "zwierzyna",
+    "leśna",
+    "fałszywy alarm",
+    "obszar",
+    "bezpieczeństwo",
+    "trasa",
+    "patrol",
+    "spokój"
+  ],
+  "2024-11-12_report-02-sektor_A3.txt": [
+    "godzina",
+    "obszar",
+    "patrol nocny",
+    "monitoring",
+    "peryferie",
+    "obiekt",
+    "zadania"
+  ],
+  "2024-11-12_report-07-sektor_C4.txt": [
+    "sektor 04",
+    "Barbara Zawadzka",
+    "ultradźwiękowy sygnał",
+    "nadajnik",
+    "zielone krzaki",
+    "las",
+    "analiza odcisków palców",
+    "baza urodzeń",
+    "dział śledczy",
+    "obszar",
+    "patrol"
+  ],
+  "2024-11-12_report-08-sektor_A1.txt": [
+    "monitoring obszaru patrolowego",
+    "cisza",
+    "czujniki",
+    "aktywność",
+    "obserwacja terenu",
+    "wytyczne"
+  ],
+  "2024-11-12_report-09-sektor_C2.txt": [
+    "patrol, peryferie zachodnie, czujniki, sygnały, obszar, anomalia, cykl, sektor"
+  ]
+}
