@@ -14,6 +14,7 @@
     "01_task": "bun run 01_task/app.ts",
     "12_task": "bun run 12_task/app.ts",
     "13_task": "bun run 13_task/app.ts",
+    "14_task": "bun run 14_task/app.ts",
     "advanced_web_search": "bun advanced_web_search/app.ts",
     "chain": "bun run chain/app.ts",
     "completion": "bun run completion/app.ts",
