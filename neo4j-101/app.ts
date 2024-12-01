@@ -1,7 +1,7 @@
 import { Neo4jService } from "./Neo4jService";
 import { OpenAIService } from "./OpenAIService";
 import { v4 as uuidv4 } from 'uuid';
-import { thinkingSystemPrompt } from "./prompts";
+import { thinkingSystemPrompt } from "./prompts";5
 import type { ChatCompletion, ChatCompletionMessageParam } from "openai/resources/chat/completions";
 
 if (!process.env.NEO4J_URI || !process.env.NEO4J_USER || !process.env.NEO4J_PASSWORD) {
@@ -12,7 +12,7 @@ const openAIService = new OpenAIService();
 const neo4jService = new Neo4jService(
   process.env.NEO4J_URI,
   process.env.NEO4J_USER,
-  process.env.NEO4J_PASSWORD,
+  process.env.NEO4J_PASSWORD + "#",
   openAIService
 );
 

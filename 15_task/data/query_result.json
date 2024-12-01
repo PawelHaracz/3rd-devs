@@ -1,0 +1,757 @@
+[
+  {
+    "user1_id": "1",
+    "username": "Adrian",
+    "user2_id": "5"
+  },
+  {
+    "user1_id": "1",
+    "username": "Adrian",
+    "user2_id": "20"
+  },
+  {
+    "user1_id": "1",
+    "username": "Adrian",
+    "user2_id": "54"
+  },
+  {
+    "user1_id": "2",
+    "username": "Monika",
+    "user2_id": "14"
+  },
+  {
+    "user1_id": "2",
+    "username": "Monika",
+    "user2_id": "45"
+  },
+  {
+    "user1_id": "3",
+    "username": "Azazel",
+    "user2_id": "6"
+  },
+  {
+    "user1_id": "3",
+    "username": "Azazel",
+    "user2_id": "31"
+  },
+  {
+    "user1_id": "3",
+    "username": "Azazel",
+    "user2_id": "77"
+  },
+  {
+    "user1_id": "4",
+    "username": "Robert",
+    "user2_id": "2"
+  },
+  {
+    "user1_id": "4",
+    "username": "Robert",
+    "user2_id": "34"
+  },
+  {
+    "user1_id": "4",
+    "username": "Robert",
+    "user2_id": "83"
+  },
+  {
+    "user1_id": "6",
+    "username": "Michał",
+    "user2_id": "95"
+  },
+  {
+    "user1_id": "7",
+    "username": "Katarzyna",
+    "user2_id": "51"
+  },
+  {
+    "user1_id": "8",
+    "username": "Mateusz",
+    "user2_id": "17"
+  },
+  {
+    "user1_id": "8",
+    "username": "Mateusz",
+    "user2_id": "20"
+  },
+  {
+    "user1_id": "8",
+    "username": "Mateusz",
+    "user2_id": "79"
+  },
+  {
+    "user1_id": "9",
+    "username": "Zofia",
+    "user2_id": "29"
+  },
+  {
+    "user1_id": "11",
+    "username": "Julia",
+    "user2_id": "21"
+  },
+  {
+    "user1_id": "11",
+    "username": "Julia",
+    "user2_id": "78"
+  },
+  {
+    "user1_id": "13",
+    "username": "Anna",
+    "user2_id": "5"
+  },
+  {
+    "user1_id": "13",
+    "username": "Anna",
+    "user2_id": "24"
+  },
+  {
+    "user1_id": "13",
+    "username": "Anna",
+    "user2_id": "40"
+  },
+  {
+    "user1_id": "13",
+    "username": "Anna",
+    "user2_id": "75"
+  },
+  {
+    "user1_id": "13",
+    "username": "Anna",
+    "user2_id": "76"
+  },
+  {
+    "user1_id": "14",
+    "username": "Piotr",
+    "user2_id": "26"
+  },
+  {
+    "user1_id": "14",
+    "username": "Piotr",
+    "user2_id": "67"
+  },
+  {
+    "user1_id": "17",
+    "username": "Maria",
+    "user2_id": "21"
+  },
+  {
+    "user1_id": "17",
+    "username": "Maria",
+    "user2_id": "30"
+  },
+  {
+    "user1_id": "17",
+    "username": "Maria",
+    "user2_id": "42"
+  },
+  {
+    "user1_id": "18",
+    "username": "Krzysztof",
+    "user2_id": "83"
+  },
+  {
+    "user1_id": "18",
+    "username": "Krzysztof",
+    "user2_id": "95"
+  },
+  {
+    "user1_id": "19",
+    "username": "Emilia",
+    "user2_id": "87"
+  },
+  {
+    "user1_id": "20",
+    "username": "Marcin",
+    "user2_id": "40"
+  },
+  {
+    "user1_id": "20",
+    "username": "Marcin",
+    "user2_id": "86"
+  },
+  {
+    "user1_id": "22",
+    "username": "Łukasz",
+    "user2_id": "22"
+  },
+  {
+    "user1_id": "22",
+    "username": "Łukasz",
+    "user2_id": "28"
+  },
+  {
+    "user1_id": "22",
+    "username": "Łukasz",
+    "user2_id": "92"
+  },
+  {
+    "user1_id": "24",
+    "username": "Grzegorz",
+    "user2_id": "2"
+  },
+  {
+    "user1_id": "25",
+    "username": "Alicja",
+    "user2_id": "15"
+  },
+  {
+    "user1_id": "25",
+    "username": "Alicja",
+    "user2_id": "31"
+  },
+  {
+    "user1_id": "27",
+    "username": "Martyna",
+    "user2_id": "75"
+  },
+  {
+    "user1_id": "28",
+    "username": "Rafał",
+    "user2_id": "3"
+  },
+  {
+    "user1_id": "28",
+    "username": "Rafał",
+    "user2_id": "6"
+  },
+  {
+    "user1_id": "28",
+    "username": "Rafał",
+    "user2_id": "17"
+  },
+  {
+    "user1_id": "28",
+    "username": "Rafał",
+    "user2_id": "83"
+  },
+  {
+    "user1_id": "28",
+    "username": "Rafał",
+    "user2_id": "84"
+  },
+  {
+    "user1_id": "29",
+    "username": "Ewelina",
+    "user2_id": "87"
+  },
+  {
+    "user1_id": "31",
+    "username": "Zygfryd",
+    "user2_id": "3"
+  },
+  {
+    "user1_id": "31",
+    "username": "Zygfryd",
+    "user2_id": "7"
+  },
+  {
+    "user1_id": "31",
+    "username": "Zygfryd",
+    "user2_id": "66"
+  },
+  {
+    "user1_id": "32",
+    "username": "Jakub",
+    "user2_id": "97"
+  },
+  {
+    "user1_id": "33",
+    "username": "Agnieszka",
+    "user2_id": "8"
+  },
+  {
+    "user1_id": "34",
+    "username": "Hubert",
+    "user2_id": "51"
+  },
+  {
+    "user1_id": "34",
+    "username": "Hubert",
+    "user2_id": "63"
+  },
+  {
+    "user1_id": "36",
+    "username": "Dawid",
+    "user2_id": "59"
+  },
+  {
+    "user1_id": "37",
+    "username": "Lena",
+    "user2_id": "31"
+  },
+  {
+    "user1_id": "37",
+    "username": "Lena",
+    "user2_id": "68"
+  },
+  {
+    "user1_id": "37",
+    "username": "Lena",
+    "user2_id": "80"
+  },
+  {
+    "user1_id": "38",
+    "username": "Szymon",
+    "user2_id": "27"
+  },
+  {
+    "user1_id": "38",
+    "username": "Szymon",
+    "user2_id": "78"
+  },
+  {
+    "user1_id": "39",
+    "username": "Barbara",
+    "user2_id": "46"
+  },
+  {
+    "user1_id": "40",
+    "username": "Oliwier",
+    "user2_id": "14"
+  },
+  {
+    "user1_id": "40",
+    "username": "Oliwier",
+    "user2_id": "39"
+  },
+  {
+    "user1_id": "40",
+    "username": "Oliwier",
+    "user2_id": "47"
+  },
+  {
+    "user1_id": "40",
+    "username": "Oliwier",
+    "user2_id": "52"
+  },
+  {
+    "user1_id": "40",
+    "username": "Oliwier",
+    "user2_id": "80"
+  },
+  {
+    "user1_id": "40",
+    "username": "Oliwier",
+    "user2_id": "82"
+  },
+  {
+    "user1_id": "41",
+    "username": "Nikola",
+    "user2_id": "75"
+  },
+  {
+    "user1_id": "42",
+    "username": "Wojciech",
+    "user2_id": "11"
+  },
+  {
+    "user1_id": "42",
+    "username": "Wojciech",
+    "user2_id": "20"
+  },
+  {
+    "user1_id": "42",
+    "username": "Wojciech",
+    "user2_id": "30"
+  },
+  {
+    "user1_id": "42",
+    "username": "Wojciech",
+    "user2_id": "72"
+  },
+  {
+    "user1_id": "43",
+    "username": "Karolina",
+    "user2_id": "92"
+  },
+  {
+    "user1_id": "44",
+    "username": "Wiktor",
+    "user2_id": "6"
+  },
+  {
+    "user1_id": "44",
+    "username": "Wiktor",
+    "user2_id": "95"
+  },
+  {
+    "user1_id": "45",
+    "username": "Kinga",
+    "user2_id": "18"
+  },
+  {
+    "user1_id": "45",
+    "username": "Kinga",
+    "user2_id": "54"
+  },
+  {
+    "user1_id": "45",
+    "username": "Kinga",
+    "user2_id": "62"
+  },
+  {
+    "user1_id": "46",
+    "username": "Artur",
+    "user2_id": "36"
+  },
+  {
+    "user1_id": "47",
+    "username": "Oliwia",
+    "user2_id": "95"
+  },
+  {
+    "user1_id": "48",
+    "username": "Patryk",
+    "user2_id": "52"
+  },
+  {
+    "user1_id": "49",
+    "username": "Joanna",
+    "user2_id": "16"
+  },
+  {
+    "user1_id": "49",
+    "username": "Joanna",
+    "user2_id": "18"
+  },
+  {
+    "user1_id": "49",
+    "username": "Joanna",
+    "user2_id": "65"
+  },
+  {
+    "user1_id": "50",
+    "username": "Damian",
+    "user2_id": "34"
+  },
+  {
+    "user1_id": "51",
+    "username": "Patrycja",
+    "user2_id": "9"
+  },
+  {
+    "user1_id": "51",
+    "username": "Patrycja",
+    "user2_id": "53"
+  },
+  {
+    "user1_id": "51",
+    "username": "Patrycja",
+    "user2_id": "70"
+  },
+  {
+    "user1_id": "52",
+    "username": "Filip",
+    "user2_id": "63"
+  },
+  {
+    "user1_id": "54",
+    "username": "Sebastian",
+    "user2_id": "20"
+  },
+  {
+    "user1_id": "56",
+    "username": "Daniel",
+    "user2_id": "19"
+  },
+  {
+    "user1_id": "56",
+    "username": "Daniel",
+    "user2_id": "21"
+  },
+  {
+    "user1_id": "57",
+    "username": "Beata",
+    "user2_id": "43"
+  },
+  {
+    "user1_id": "57",
+    "username": "Beata",
+    "user2_id": "62"
+  },
+  {
+    "user1_id": "58",
+    "username": "Konrad",
+    "user2_id": "15"
+  },
+  {
+    "user1_id": "59",
+    "username": "Klaudia",
+    "user2_id": "25"
+  },
+  {
+    "user1_id": "59",
+    "username": "Klaudia",
+    "user2_id": "37"
+  },
+  {
+    "user1_id": "59",
+    "username": "Klaudia",
+    "user2_id": "70"
+  },
+  {
+    "user1_id": "60",
+    "username": "Bartłomiej",
+    "user2_id": "5"
+  },
+  {
+    "user1_id": "62",
+    "username": "Igor",
+    "user2_id": "54"
+  },
+  {
+    "user1_id": "63",
+    "username": "Edyta",
+    "user2_id": "29"
+  },
+  {
+    "user1_id": "63",
+    "username": "Edyta",
+    "user2_id": "80"
+  },
+  {
+    "user1_id": "64",
+    "username": "Kamil",
+    "user2_id": "73"
+  },
+  {
+    "user1_id": "65",
+    "username": "Magdalena",
+    "user2_id": "89"
+  },
+  {
+    "user1_id": "68",
+    "username": "Witold",
+    "user2_id": "55"
+  },
+  {
+    "user1_id": "68",
+    "username": "Witold",
+    "user2_id": "91"
+  },
+  {
+    "user1_id": "71",
+    "username": "Iwona",
+    "user2_id": "3"
+  },
+  {
+    "user1_id": "72",
+    "username": "Jerzy",
+    "user2_id": "6"
+  },
+  {
+    "user1_id": "72",
+    "username": "Jerzy",
+    "user2_id": "74"
+  },
+  {
+    "user1_id": "72",
+    "username": "Jerzy",
+    "user2_id": "84"
+  },
+  {
+    "user1_id": "73",
+    "username": "Dorota",
+    "user2_id": "3"
+  },
+  {
+    "user1_id": "73",
+    "username": "Dorota",
+    "user2_id": "14"
+  },
+  {
+    "user1_id": "75",
+    "username": "Zuzanna",
+    "user2_id": "8"
+  },
+  {
+    "user1_id": "75",
+    "username": "Zuzanna",
+    "user2_id": "28"
+  },
+  {
+    "user1_id": "76",
+    "username": "Cezary",
+    "user2_id": "27"
+  },
+  {
+    "user1_id": "76",
+    "username": "Cezary",
+    "user2_id": "28"
+  },
+  {
+    "user1_id": "76",
+    "username": "Cezary",
+    "user2_id": "75"
+  },
+  {
+    "user1_id": "77",
+    "username": "Aleksander",
+    "user2_id": "39"
+  },
+  {
+    "user1_id": "77",
+    "username": "Aleksander",
+    "user2_id": "73"
+  },
+  {
+    "user1_id": "78",
+    "username": "Oskar",
+    "user2_id": "71"
+  },
+  {
+    "user1_id": "79",
+    "username": "Halina",
+    "user2_id": "11"
+  },
+  {
+    "user1_id": "79",
+    "username": "Halina",
+    "user2_id": "62"
+  },
+  {
+    "user1_id": "80",
+    "username": "Leon",
+    "user2_id": "10"
+  },
+  {
+    "user1_id": "81",
+    "username": "Elżbieta",
+    "user2_id": "51"
+  },
+  {
+    "user1_id": "82",
+    "username": "Kazimierz",
+    "user2_id": "26"
+  },
+  {
+    "user1_id": "82",
+    "username": "Kazimierz",
+    "user2_id": "33"
+  },
+  {
+    "user1_id": "82",
+    "username": "Kazimierz",
+    "user2_id": "47"
+  },
+  {
+    "user1_id": "83",
+    "username": "Weronika",
+    "user2_id": "2"
+  },
+  {
+    "user1_id": "83",
+    "username": "Weronika",
+    "user2_id": "12"
+  },
+  {
+    "user1_id": "83",
+    "username": "Weronika",
+    "user2_id": "82"
+  },
+  {
+    "user1_id": "84",
+    "username": "Andrzej",
+    "user2_id": "18"
+  },
+  {
+    "user1_id": "84",
+    "username": "Andrzej",
+    "user2_id": "74"
+  },
+  {
+    "user1_id": "85",
+    "username": "Grażyna",
+    "user2_id": "29"
+  },
+  {
+    "user1_id": "86",
+    "username": "Jacek",
+    "user2_id": "93"
+  },
+  {
+    "user1_id": "88",
+    "username": "Przemysław",
+    "user2_id": "32"
+  },
+  {
+    "user1_id": "88",
+    "username": "Przemysław",
+    "user2_id": "71"
+  },
+  {
+    "user1_id": "89",
+    "username": "Hanna",
+    "user2_id": "85"
+  },
+  {
+    "user1_id": "91",
+    "username": "Sylwia",
+    "user2_id": "57"
+  },
+  {
+    "user1_id": "91",
+    "username": "Sylwia",
+    "user2_id": "65"
+  },
+  {
+    "user1_id": "91",
+    "username": "Sylwia",
+    "user2_id": "82"
+  },
+  {
+    "user1_id": "92",
+    "username": "Borys",
+    "user2_id": "51"
+  },
+  {
+    "user1_id": "93",
+    "username": "Ludwika",
+    "user2_id": "27"
+  },
+  {
+    "user1_id": "93",
+    "username": "Ludwika",
+    "user2_id": "56"
+  },
+  {
+    "user1_id": "94",
+    "username": "Norbert",
+    "user2_id": "37"
+  },
+  {
+    "user1_id": "95",
+    "username": "Roksana",
+    "user2_id": "17"
+  },
+  {
+    "user1_id": "95",
+    "username": "Roksana",
+    "user2_id": "21"
+  },
+  {
+    "user1_id": "95",
+    "username": "Roksana",
+    "user2_id": "40"
+  },
+  {
+    "user1_id": "96",
+    "username": "Fryderyk",
+    "user2_id": "4"
+  },
+  {
+    "user1_id": "96",
+    "username": "Fryderyk",
+    "user2_id": "85"
+  },
+  {
+    "user1_id": "97",
+    "username": "Jolanta",
+    "user2_id": "84"
+  },
+  {
+    "user1_id": "98",
+    "username": "Samuel",
+    "user2_id": "12"
+  }
+]
