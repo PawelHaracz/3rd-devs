@@ -1,0 +1,8 @@
+poleć na prawy górny róg
+{ "_thinking": "Interpreting 'prawy górny róg' as 1x4. Found a house here.", "result": "dom" }
+Lecimy kolego teraz na sam dół mapy, a później ile tylko możemy polecimy w prawo. Teraz mała korekta o jedno pole do góry. Co my tam mamy?
+{ "_thinking": "Interpreting the instruction to 'lecimy na sam dół mapy', which means to go to the bottom row (4). Then 'a później ile tylko możemy polecimy w prawo', suggests to move to the right as far as possible from the left. The rightmost position in the bottom row is 4x4. The last part states 'korekta o jedno pole do góry', meaning to move up one row, landing on 3x4. At 3x4, there are two trees.", "result": "trawa i dwa drzewa" }
+Dobra. To co? zaczynamy? Odpalam silniki. Czas na kolejny lot. Jesteś moimi oczami. Lecimy w dół, albo nie! nie! czekaaaaj. Polecimy wiem jak. W prawo i dopiero teraz w dół. Tak będzie OK. Co widzisz?
+{ "_thinking": "Interpreting the movement described as 'w prawo' (to the right) and then 'w dół' (down). Starting from 1x1: moving right to 1x2 and then down to 2x2. 2x2 has 'trawa i młyn'.", "result": "trawa i młyn" }
+Polecimy na sam dół mapy, a później o dwa pola w prawo. Co tam jest?
+{ "_thinking": "Interpreting the instructions 'sam dół mapy' as moving to 4x1 (bottom of the map) and then moving 2 fields to the right. This takes us to 4x3, which corresponds to a car on the grid.", "result": "samochód" }

@@ -16,6 +16,7 @@
     "13_task": "bun 13_task/app.ts",
     "14_task": "bun 14_task/app.ts",
     "15_task": "bun 15_task/app.ts",
+    "19_task": "bun 19_task/app.ts",
     "agent": "bun run agent/app.ts",
     "advanced_web_search": "bun advanced_web_search/app.ts",
     "chain": "bun run chain/app.ts",
